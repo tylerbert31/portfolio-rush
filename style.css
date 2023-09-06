@@ -176,6 +176,11 @@ section {
   margin: auto 0;
 }
 
+.circle-crop {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
 .section__text {
   align-self: center;
   text-align: center;
